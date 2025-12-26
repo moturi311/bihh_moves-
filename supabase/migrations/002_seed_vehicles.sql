@@ -1,0 +1,1 @@
+-- Seed vehicles data removed for clean system start
